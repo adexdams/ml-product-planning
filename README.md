@@ -1,6 +1,7 @@
 # Loyalty Program as a Platform Service
 
 Building a product to personalize and optimize loyalty benefits for customers and retailers
+* This demo was developed following the completion of lessons on AI and building AI solutions from completing the "ElementsofAI" courses: https://www.elementsofai.com/
 
 ## Summary
 
