@@ -2,6 +2,7 @@
 
 Building a product to personalize and optimize loyalty benefits for customers and retailers
 * This demo was developed following the completion of lessons on AI and building AI solutions from completing the "ElementsofAI" courses: https://www.elementsofai.com/
+* Sequel to that is the completion of the Machine Learning Product Management Guide on Udemy: https://www.udemy.com/course/machine-learning-for-product-managers/
 
 ## Summary
 
@@ -33,7 +34,8 @@ The project does not solve broader issues related to supply chain disruptions, e
 
 ## What next?
 
-The idea could grow to include predictive inventory management, optimizing product pricing and sales projection, and integrating real-time market trend analysis.
+* The idea could grow to include predictive inventory management, optimizing product pricing and sales projection, and integrating real-time market trend analysis.
+* Read the 'Product Strategy Plan' attached to this repository.
 
 
 ## Acknowledgments
